@@ -1,4 +1,4 @@
-# Real-Time Drowsiness & Fatigue Detection System 🚗😴
+# Gazing System of AI Mindful Interrupter
 
 An end-to-end edge computer vision application that monitors attentiveness in real-time. Built with Python, OpenCV, and MediaPipe's Face Landmarker Tasks API, this system runs locally at 30+ FPS on standard CPU hardware to detect microsleeps, prolonged eye closure, yawning, and head nodding.
 
